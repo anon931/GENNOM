@@ -1,11 +1,24 @@
 # GENNOM
 ### Grid-Energy Neural Network Optimization & Management
+<!-- BANNER PRINCIPAL -->
+<p align="center">
+  <a href="https://github.com/anon931/GENNOM">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=220&section=header&text=⚡%20G-ENNOM&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Grid-Energy%20Neural%20Network%20Optimization%20%26%20Management&descAlignY=55&descSize=18"/>
+  </a>
+</p>
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=1e293b"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg?style=for-the-badge&logo=springboot&logoColor=white&color=1e293b"/>
+  <img src="https://img.shields.io/badge/React-18-blue.svg?style=for-the-badge&logo=react&logoColor=white&color=1e293b"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.2-blue.svg?style=for-the-badge&logo=typescript&logoColor=white&color=1e293b"/>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=1e293b"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=800&lines=🌱+Eco-friendly+Industrial+Energy+Optimization;🤖+LSTM+Neural+Network+Predictions;📊+Real-time+Dashboard+with+Recharts;🏭+Designed+for+Chimbote's+Industrial+Sector"/>
+</p>
 
 ---
 
@@ -102,10 +115,9 @@ npm run dev
 ```
 
 # 🔑 Credenciales por Defecto 
-
-Rol             -   Usuario     -   Contraseña
-Administrador   -    admin      -    admin123
-Usuario Normal	(Regístrate en la app)	-
+| Rol | Usuario | Contraseña |
+| Administrador | admin | admin123 |
+| Usuario Normal | (Regístrate en la app) |	- |
 
 # 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir el cambio que deseas realizar.
