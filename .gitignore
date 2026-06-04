@@ -1,0 +1,127 @@
+# ============================================
+# G-ENNOM - .gitignore
+# Sistema predictivo de consumo eléctrico
+# ============================================
+
+# -------------------------------
+# Backend (Java / Spring Boot / Maven)
+# -------------------------------
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*.orig
+
+# -------------------------------
+# Frontend (React / Node)
+# -------------------------------
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+*.tsbuildinfo
+
+# -------------------------------
+# IDE / Editores
+# -------------------------------
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------------
+# Base de datos (archivos locales)
+# -------------------------------
+*.sqlite
+*.db
+*.mwb
+*.mwb.bak
+
+# -------------------------------
+# Docker
+# -------------------------------
+docker/volumes/
+*.pid
+*.log
+
+# -------------------------------
+# Documentación temporal
+# -------------------------------
+docs/tmp/
+*.tmp
+
+# -------------------------------
+# Variables de entorno / Secretos
+# -------------------------------
+.env
+.env.*
+!.env.example
+
+# -------------------------------
+# Archivos del sistema
+# -------------------------------
+*.exe
+*.dll
+*.so
+*.dylib
+
+# -------------------------------
+# Logs y reportes
+# -------------------------------
+*.log
+logs/
+*.report
+*.html
+
+# -------------------------------
+# Backups
+# -------------------------------
+*.bak
+*.backup
+*.old
+*.orig
+
+# -------------------------------
+# ML Service (Python)
+# -------------------------------
+ml-service/__pycache__/
+ml-service/*.pyc
+ml-service/.venv/
+ml-service/venv/
+ml-service/.env
+ml-service/models/*.h5
+ml-service/models/*.pkl
+ml-service/models/*.joblib
+
+# -------------------------------
+# Scripts temporales
+# -------------------------------
+scripts/tmp/
+*.ps1.bak
+*.bat.bak
+*.sh.bak
+
+# -------------------------------
+# Dependencias grandes (no versionar)
+# -------------------------------
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
