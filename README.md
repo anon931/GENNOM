@@ -7,17 +7,13 @@
   </a>
 </p>
 
-<!-- BADGES -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=1e293b"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg?style=for-the-badge&logo=springboot&logoColor=white&color=1e293b"/>
-  <img src="https://img.shields.io/badge/React-18-blue.svg?style=for-the-badge&logo=react&logoColor=white&color=1e293b"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.2-blue.svg?style=for-the-badge&logo=typescript&logoColor=white&color=1e293b"/>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=1e293b"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=800&lines=🌱+Eco-friendly+Industrial+Energy+Optimization;🤖+LSTM+Neural+Network+Predictions;📊+Real-time+Dashboard+with+Recharts;🏭+Designed+for+Chimbote's+Industrial+Sector"/>
+  <img src="https://img.shields.io/badge/Java-17-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.2.0-6db33f?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-5.2-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
 </p>
 
 ---
@@ -28,14 +24,14 @@
 
 ## ✨ Características Principales
 
-🔮 **Predicción LSTM** | Modelo de red neuronal recurrente para proyectar demandas energéticas futuras 
-📊 **Dashboard Interactivo** | Gráficos en tiempo real con métricas de consumo, eficiencia y ahorro 
-👥 **Multiempresa (SaaS)** | Registro de empresas, cada una con su propia planta industrial e inventario 
-🔐 **Autenticación JWT** | Roles de usuario (ADMIN / USER) con autorización por tokens 
-⚙️ **Simulación Automática** | Generación de datos de consumo basada en parámetros configurables 
-🚨 **Detección de Anomalías** | Identificación de desviaciones superiores al 20% en el consumo 
-🌱 **Eco Score** | Métrica de sostenibilidad que califica la eficiencia de cada planta 
-🐳 **Docker Ready** | Entorno completo con Docker Compose 
+- **Predicción LSTM** > Modelo de red neuronal recurrente para proyectar demandas energéticas futuras 
+- **Dashboard Interactivo** > Gráficos en tiempo real con métricas de consumo, eficiencia y ahorro 
+- **Multiempresa (SaaS)** > Registro de empresas, cada una con su propia planta industrial e inventario 
+- **Autenticación JWT** > Roles de usuario (ADMIN / USER) con autorización por tokens 
+- **Simulación Automática** > Generación de datos de consumo basada en parámetros configurables 
+- **Detección de Anomalías** > Identificación de desviaciones superiores al 20% en el consumo 
+- **Eco Score** > Métrica de sostenibilidad que califica la eficiencia de cada planta 
+- **Docker Ready** > Entorno completo con Docker Compose 
 
 ---
 
