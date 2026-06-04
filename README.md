@@ -2,9 +2,7 @@
 ### Grid-Energy Neural Network Optimization & Management
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <a href="https://github.com/anon931/GENNOM">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=220&section=header&text=⚡%20G-ENNOM&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Grid-Energy%20Neural%20Network%20Optimization%20%26%20Management&descAlignY=55&descSize=18"/>
-  </a>
+  <img src="https://github.com/anon931/GENNOM/blob/master/frontend/src/assets/images/BANNER.png" alt="GENNOM Banner">
 </p>
 
 <!-- Badges -->
