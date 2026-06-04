@@ -116,6 +116,7 @@ npm run dev
 
 # 🔑 Credenciales por Defecto 
 | Rol | Usuario | Contraseña |
+|-----|---------|------------|
 | Administrador | admin | admin123 |
 | Usuario Normal | (Regístrate en la app) |	- |
 
